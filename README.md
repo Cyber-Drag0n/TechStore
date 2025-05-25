@@ -31,7 +31,7 @@
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone https://github.com/your-username/TechStore.git
+git clone https://github.com/Cyber-Drag0n/TechStore.git
 cd TechStore
 ````
 
