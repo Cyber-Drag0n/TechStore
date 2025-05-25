@@ -64,6 +64,12 @@ DB_HOST=localhost
 SECRET_KEY=your_jwt_secret
 ```
 
+Для `client/.env`:
+```
+REACT_APP_API_URL=http://localhost:your_port/api/
+REACT_APP_IMG_URL=http://localhost:your_port/
+```
+
 ---
 
 ## ▶️ Запуск
